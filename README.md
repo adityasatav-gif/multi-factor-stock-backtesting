@@ -103,6 +103,8 @@ The project generates a performance chart that compares the growth of a hypothet
 
 The chart provides a visual comparison of cumulative portfolio value over time.
 
+![Multi-Factor Portfolio vs S&P 500](performance_chart.png)
+
 ## Technologies Used
 
 - **Python** for the overall analysis and portfolio calculations
